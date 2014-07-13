@@ -1,0 +1,19 @@
+{
+  "name": "spotify-save-as-playlist",
+  "version": "0.0.1",
+  "description": "Polymer Web component for creating a Spotify playlist with certain tracks in a user's library",
+  "dependencies": {
+    "polymer": "~0.3"
+  },
+  "authors": [
+    "José M. Pérez"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "spotify",
+    "playlist"
+  ]
+}
